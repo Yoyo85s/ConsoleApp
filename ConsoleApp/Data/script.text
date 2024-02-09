@@ -1,0 +1,10 @@
+﻿
+
+
+Remove-Migration -Force
+ 
+ 
+Add-Migration 
+ 
+ 
+Update-Database
